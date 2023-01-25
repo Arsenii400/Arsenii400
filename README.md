@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs"     />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact">
-  <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact" />
+  <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400" />
 </a>
 </div>
