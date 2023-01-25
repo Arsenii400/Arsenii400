@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### :trophy: Моя статистика:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs&border_color=000">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs" />
+<a href="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs&border_color=000&ring_color=000&title_color=000&icon_color=000&card_width=400px" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact&hide_rank=true">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact&card_width=357&border_color=000&title_color=000" />
 </a>
 </div>
