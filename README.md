@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :trophy: Моя статистика:
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs">
+<a href="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs&card_width=300">
   <img  align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs"     />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsenii400&layout=compact&card_width=500">
