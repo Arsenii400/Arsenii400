@@ -4,8 +4,6 @@
 
 ✍🏻 Стремлюсь к чистому и понятному коду
 
-<img src="https://user-images.githubusercontent.com/99607445/214906573-92cd768d-27bd-41c1-8db5-e0a2bf170304.png" alt="Adaptive" height="14"> Ник в телеграме: @Chehin
-
 ### :trophy: Моя статистика:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Arsenii400&show_icons=true&hide=stars,contribs">
