@@ -4,7 +4,7 @@
 
 ✍🏻 Стремлюсь к чистому и понятному коду
 
-<img src="https://user-images.githubusercontent.com/99607445/214906573-92cd768d-27bd-41c1-8db5-e0a2bf170304.png" alt="Adaptive" height="14"> @Chehin
+<img src="https://user-images.githubusercontent.com/99607445/214906573-92cd768d-27bd-41c1-8db5-e0a2bf170304.png" alt="Adaptive" height="14"> Ник в телеграме: @Chehin
 
 ### :trophy: Моя статистика:
 <div>
